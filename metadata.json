@@ -1,0 +1,6 @@
+{
+  "name": "LabTrack Medical Lab Equipment & Environment Monitor",
+  "description": "Mobile-First PWA สำหรับนักเทคนิคการแพทย์ใช้เดินบันทึกการตรวจสอบสภาพแวดล้อมและเครื่องมือประจำวัน ตามมาตรฐาน ISO 15189",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
